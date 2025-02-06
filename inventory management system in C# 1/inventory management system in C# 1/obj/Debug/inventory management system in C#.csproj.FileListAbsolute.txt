@@ -1,0 +1,12 @@
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\bin\Debug\inventory.mdf
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\bin\Debug\inventory_log.ldf
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\bin\Debug\inventory management system in C# 1.exe.config
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\bin\Debug\inventory management system in C# 1.exe
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\bin\Debug\inventory management system in C# 1.pdb
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\obj\Debug\inventory management system in C#.csproj.AssemblyReference.cache
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\obj\Debug\inventory_management_system_in_C__1.Form1.resources
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\obj\Debug\inventory_management_system_in_C__1.Properties.Resources.resources
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\obj\Debug\inventory management system in C#.csproj.GenerateResource.cache
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\obj\Debug\inventory management system in C#.csproj.CoreCompileInputs.cache
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\obj\Debug\inventory management system in C# 1.exe
+C:\Users\Apex User\source\repos\inventory management system in C# 1\inventory management system in C# 1\obj\Debug\inventory management system in C# 1.pdb
